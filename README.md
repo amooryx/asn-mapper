@@ -1,4 +1,4 @@
-﻿# asn-mapper
+# asn-mapper
 
 > ASN and BGP prefix recon via BGPView API
 
